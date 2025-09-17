@@ -56,9 +56,10 @@ Label encoder (**`topic_encoder.pkl`** dan **`sentiment_encoder.pkl`**) juga dia
 
 3. Install Requirements
     ```bash
-       pip install pip install -r requirements.txt
+       pip install -r requirements.txt
     ```   
 4. Jalankan Program
     ```bash
        streamlit run app.py
+
     ```   
